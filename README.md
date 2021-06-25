@@ -36,6 +36,7 @@
 - [Zero Knowledge Podcast](https://www.zeroknowledge.fm/) [Podcast]
 - [zeroknowledgefm](https://twitter.com/zeroknowledgefm) [Twitter]
 - [AnnaRRose](https://twitter.com/AnnaRRose) [Twitter]
+- [ZKProof Standards](https://twitter.com/zkproof) [Twitter]
 - [Telegram](https://t.me/joinchat/TORo7aknkYNLHmCM) [Telegram]
 
 ## Cryptography
